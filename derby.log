@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 25 12:29:21 BRT 2021:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instância a816c00e-0177-3a29-e7fc-000005e061b0
+no diretório de banco de dados C:\Projetos\Java\eclipse\LogView\reglog 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_271-b09
+user.dir=C:\Projetos\Java\eclipse\LogView
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
